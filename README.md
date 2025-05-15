@@ -1,4 +1,4 @@
-# Sentiment Classification of Movie Reviews 🎬
+# Sentiment Classification of Movie Reviews 
 This project implements a basic sentiment classifier using Natural Language Processing (NLP) methods in Python. The goal is to distinguish between positive and negative movie reviews from the NLTK `movie_reviews` corpus. It uses tokenization, stopword filtering, and feature extraction to build a classification model.
 
 
